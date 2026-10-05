@@ -24,5 +24,9 @@ Our club call signs are **NF4RC** (North Florida Amateur Radio Club) and **NF4AC
 Most of this organization's repositories are private and visible only to members.
 Members: switch to the **member view** at the top of this page.
 
+## Resources
+
+[Power Outage Maps and Reporting](https://gist.github.com/Computer-Tsu/2bcb84a82cb000fca5dcf001a7f81cd4) by N4TEK
+
 ---
 <sub>ARES® is a registered service mark of the American Radio Relay League, Inc.</sub>
