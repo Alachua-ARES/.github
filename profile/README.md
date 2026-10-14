@@ -14,6 +14,7 @@ We are licensed amateur radio operators who train to provide backup emergency co
 - **Email list:** [groups.io/g/NF4RC](https://groups.io/g/NF4RC)
 - **Monthly meeting:** 2nd Wednesday, 7 PM (in person and on Zoom; details on the email list)
 - **Alachua ARES net:** Thursdays, 8 PM, on the GARS K4GNV 146.820 MHz repeater. Open to anyone who wants to check in.
+- to join, email Jeff Capehart or visit [ARRL.org Public Service](https://www.arrl.org/ares)
 - **No license yet?** Visitors are welcome at meetings, and we can point you to local license classes.
 
 ## Who we are
