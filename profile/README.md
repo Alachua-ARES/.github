@@ -25,6 +25,15 @@ Our club call signs are **NF4RC** (North Florida Amateur Radio Club) and **NF4AC
 Most of this organization's repositories are private and visible only to members.
 Members: switch to the **member view** at the top of this page.
 
+### 2026 OFFICERS
+
+| Position | NFARC | Alachua EOC |
+| ----- | ----- | ----- |
+| President  |   Gordon Gibby | Brett Wallace  |
+| Vice President | Earl Sloan | Emily Wallace  |
+| Secretary  |  Jeff Capehart | Earl McDow  |
+| Treasurer  |  Susan Halbert | Mark McDow  |
+
 ## Resources
 
 [Power Outage Maps and Reporting](https://gist.github.com/Computer-Tsu/2bcb84a82cb000fca5dcf001a7f81cd4) by N4TEK
