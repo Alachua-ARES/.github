@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlachuaARES/.github/main/assets/logo/alachua-ares-social-preview-1280x640.png"
+<img src="https://raw.githubusercontent.com/Alachua-ARES/.github/main/assets/logo/alachua-ares-social-preview-1280x640.png"
      alt="Alachua ARES — Amateur Radio Emergency Service, Alachua County, Florida"
      width="100%">
 
